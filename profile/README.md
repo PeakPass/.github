@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="peakpass.png" width="400" alt="PeakPass Logo"></a>
+  <img src="peakpass.png" width="125" alt="PeakPass Logo"></a>
   <br>
   PeakPass<br>
 </h1>
